@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 streamlit
 pandas
 xgboost
 scikit-learn
+=======
+streamlit
+pandas
+xgboost
+scikit-learn
+>>>>>>> b07954d347f2c1220cdc1740f3c6c548cb2a98b2
 numpy
